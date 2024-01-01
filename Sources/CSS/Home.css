@@ -1,0 +1,92 @@
+#welcome{
+    color: aliceblue;
+    font-size: 33px;
+    position: relative;
+    top: -5px;
+    left: 33px;
+    width: 565px;
+}
+#vehicles{
+    position: relative;
+top: -186px;
+left: 345px;
+width: 850px;
+}
+.vehiclesin{
+    margin: 0px -32px;
+    scale: 0.7;
+}
+#favourite{
+    color: crimson;
+font-size: 33px;
+width: 356px;
+position: relative;
+top: -650px;
+left: 30px;
+}
+#buy{
+    position: relative;
+top: -186px;
+left: 84px;
+width: 1069px;
+overflow: auto;
+}
+.buyin{
+    scale: 0.8;
+margin: 0px -69px;
+padding: 0px 36px;
+}
+.buytext{
+    background-color: aliceblue;
+    border-radius: 13px;
+    border: 2px solid black;
+    box-shadow: black 7px 7px 3px;
+    display: inline-block;
+    font-size: 34px;
+    margin: 0px 94px;
+    position: relative;
+    top: -40px;
+    transition: .3s;
+    
+}
+.buytext:hover{
+    box-shadow: none;
+    transform: translateX(7px) translateY(7px);
+}
+.buytext:active{
+    background-color: cornflowerblue;
+}
+.buylink{
+    text-decoration: none;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, crimson 10%, black 10%, black 20%, crimson 20%, crimson 30%, black 30%, black 40%, crimson 40%, crimson 50%, black 50%, black 60%, crimson 60%, crimson 70%, black 70%, black 80%, crimson 80%, crimson 90%, black 90%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#discription{
+    position: relative;
+    top: -8px;
+    left: 82px;
+    width: 653px;
+}
+#discheading{
+    color: crimson;
+    font-size: 30px;
+    font-weight: bold;
+}
+.disctext{
+    color: black;
+    font-size: 20px;
+}
+.disctext li{
+   margin: 8px 0px;
+}
+#tablet{
+    position: relative;
+top: -321px;
+left: 672px;
+scale: 0.6;
+}
+#footer{
+    bottom: -892px !important;
+}

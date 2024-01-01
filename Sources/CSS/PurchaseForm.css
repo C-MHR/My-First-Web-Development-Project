@@ -1,0 +1,77 @@
+#space{
+    padding: 30px;
+}
+#heading{            
+    margin: 46px;
+    font-size: 37px;
+    color: aliceblue;
+}
+.form{
+    position: relative;
+    left: 100px;
+    width: 700px;
+}
+#p1{
+
+    position: relative;
+    top: 15px;            
+    font-size: 29px;
+    display: inline-block;
+    width: 233px;
+    background-color: gainsboro;
+    padding: 12px;
+    border-radius: 0px 27px;
+}        
+
+.titles{            
+font-size: 29px;
+color: aliceblue;
+}       
+.input{
+position: relative;
+top: 19px;
+background-color: gainsboro;
+width: 439px;
+font-size: 18px;
+height: 33px;
+border-width: 0px;}
+
+#a1{     
+    width: 140px;       
+    top: 24px;
+    left: 40px;
+}
+.vehicle_info{
+position: relative;
+top: 51px;
+left: 130px;
+width: 1000px;
+}
+#vTitle{
+    text-align:center;
+    font-size:35px;
+    color: black;
+}
+.vtitles{
+margin: 0px 35px 0px 2px;
+display: inline-block;
+font-size: 29px;
+height: 122px;
+}
+.vinput{
+padding: 1px 0px;
+background-color: gainsboro;
+width: 180px;    
+border-width: 0px;
+font-size: 18px;
+height: 33px;
+}
+.left{
+    width: 330px;
+}
+.right{
+width: 358px;
+position: relative;
+top: -369px;
+left: 653px;
+}
